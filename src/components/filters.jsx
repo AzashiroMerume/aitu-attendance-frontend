@@ -1,7 +1,6 @@
 function Filters() {
     <div>
-        <label htmlFor=""></label>
-        <input type="text" />
+        .form
     </div>
 }
 
