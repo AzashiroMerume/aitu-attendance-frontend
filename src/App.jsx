@@ -15,7 +15,7 @@ function App() {
               <div className="content-inner shadow-sm bg-white">
                 <div className="p-3">
                   <h3>Filters</h3>
-                  <Filters></Filters>
+                  <Filters />
                 </div>
               </div>
             </div>
